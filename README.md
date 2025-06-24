@@ -1,1 +1,1 @@
-# WebProject
+# Co-orporate Event Management System
